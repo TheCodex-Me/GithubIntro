@@ -6,5 +6,6 @@ Bananas
 Cherries
 Carrots
 Cereal
-Cucumbers
+Watermelon
 Eggplants
+Potato Chips
